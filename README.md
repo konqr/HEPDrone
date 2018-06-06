@@ -15,3 +15,5 @@ To demonstrate the toolkit:
 2) We train a neural network using SciKit-Learn
 3) We train a drone to learn the features
 4) We export this to the equivalent coding in the production environment using JSON
+
+Useful Paper: https://arxiv.org/pdf/1802.00850.pdf
